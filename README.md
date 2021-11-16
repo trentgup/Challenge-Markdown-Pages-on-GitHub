@@ -7,7 +7,7 @@ Wins: 1
 Losses: 1
 # Missouri Tigers Football
 
-[Mizzou Basketball Social Media](MizzouFootballSocialMedia.md)
+[Mizzou Football Social Media](MizzouFootballSocialMedia.md)
 
 [Mizzou Football Schedule](https://www.espn.com/college-football/team/schedule/_/id/142)
 
