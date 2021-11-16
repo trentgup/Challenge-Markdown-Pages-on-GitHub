@@ -2,6 +2,8 @@
 
 [Mizzou Basketball Social Media](MizzouBasketballSocialMedia.md)
 
+[Mizzou Football Schedule](MizzouBasketballSchedule.md)
+
 Wins: 1
 
 Losses: 1
