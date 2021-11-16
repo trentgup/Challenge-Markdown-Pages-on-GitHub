@@ -1,3 +1,5 @@
+[Schedule](https://mutigers.com/sports/mens-basketball/schedule/2021-22)
+
 | Opponent       | Date           | Home/Away  |
 | :------------- |:-------------:| :-----:|
 | Northern IL      | Thu, Nov 18 | Home |
