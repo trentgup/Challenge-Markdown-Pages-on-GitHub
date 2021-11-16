@@ -11,7 +11,7 @@ Losses: 1
 
 [Mizzou Football Social Media](MizzouFootballSocialMedia.md)
 
-[Mizzou Football Schedule](MizzouFootballSocialMedia.md)
+[Mizzou Football Schedule](MizzouFootballSchedule.md)
 
 Wins:5
 
