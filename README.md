@@ -5,7 +5,7 @@ Wins: 1
 Losses: 1
 # Missouri Tigers Football
 
-[Duck Duck Go](https://duckduckgo.com)
+[Mizzou Football Twitter](https://twitter.com/MizzouFootball)
 
 Wins:5
 
