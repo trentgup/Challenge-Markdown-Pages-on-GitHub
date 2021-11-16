@@ -1,7 +1,5 @@
 # Missouri Tigers Basketball
 
-
-[Mizzou Basketball Twitter](https://twitter.com/MizzouHoops)
 [Mizzou Basketball Social Media](MizzouBasketballSocialMedia.md)
 
 Wins: 1
