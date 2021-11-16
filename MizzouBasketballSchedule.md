@@ -1,5 +1,7 @@
 | Opponent       | Date           | Home/Away  |
 | :------------- |:-------------:| :-----:|
 | Northern IL      | Thu, Nov 18 | Home |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| SMU      | Sun, Nov 21      |   Away |
+| WICHITA STATE | Fri, Nov 26      |    Home |
+|PAUL QUINN COLLEGE|Mon, Nov 29|Home|
+|LIBERTY|Thu, Dec 2|Away
