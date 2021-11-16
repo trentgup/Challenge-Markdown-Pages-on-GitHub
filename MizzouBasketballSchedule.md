@@ -1,5 +1,5 @@
-| Tables        | Are           | Cool  |
+| Opponent       | Date           | Home/Away  |
 | :------------- |:-------------:| :-----:|
-| col 3 is      | right-aligned | $1600 |
+| Northern IL      | Thu, Nov 18 | Home |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
