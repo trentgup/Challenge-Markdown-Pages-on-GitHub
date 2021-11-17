@@ -1,6 +1,6 @@
 [Back to README](README.md)
 
-[Mizzou Football Schedule](https://www.espn.com/college-football/team/schedule/_/id/142)
+[Mizzou Football Schedule](https://mutigers.com/sports/football/schedule/2021)
 
 | Opponent     | Date          | Home/Away  |
 | ------------- |:-------------:| -----:|
