@@ -13,6 +13,6 @@ Losses: 1
 
 [Mizzou Football Schedule](MizzouFootballSchedule.md)
 
-Wins:5
+**Wins:**5
 
-Losses:5
+**Losses:**5
