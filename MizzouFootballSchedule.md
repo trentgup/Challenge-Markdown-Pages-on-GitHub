@@ -1,6 +1,6 @@
 [Mizzou Football Schedule](https://www.espn.com/college-football/team/schedule/_/id/142)
 
-| Tables        | Are           | Cool  |
+| Opponent     | Date          | Home/Away  |
 | ------------- |:-------------:| -----:|
 |Central Michigan    | right-aligned | $1600 |
 | Kentucky     | centered      |   $12 |
