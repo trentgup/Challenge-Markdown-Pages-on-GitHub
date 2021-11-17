@@ -4,9 +4,11 @@
 
 [Mizzou Basketball Schedule](MizzouBasketballSchedule.md)
 
-Wins: 1
+*Wins:*
+1
 
-Losses: 1
+*Losses:*
+1
 # Missouri Tigers Football
 
 [Mizzou Football Social Media](MizzouFootballSocialMedia.md)
