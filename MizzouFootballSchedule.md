@@ -2,15 +2,15 @@
 
 | Opponent     | Date          | Home/Away  |
 | ------------- |:-------------:| -----:|
-|Central Michigan    | right-aligned | $1600 |
-| Kentucky     | centered      |   $12 |
-|SEMO | are neat      |    $1 |
-|Boston College|||
-|Tennesee|||
-|North Texas|||
-|Texas A&M|||
-|Vanderbilt|||
-|Georgia|||
-|South Carolina|||
-|Florida|||
-|Arkansas|||
+|Central Michigan    | Sat, Sep 4 | $1600 |
+| Kentucky     | Sat, Sep 11      |   $12 |
+|SEMO | Sat, Sep 18     |    $1 |
+|Boston College|Sat, Sep 25||
+|Tennesee|Sat, Oct 2||
+|North Texas|Sat, Oct 9||
+|Texas A&M|Sat, Oct 16||
+|Vanderbilt|Sat, Oct 30||
+|Georgia|Sat, Nov 6||
+|South Carolina|Sat, Nov 13||
+|Florida|Sat, Nov 20||
+|Arkansas|Fri, Nov 26||
