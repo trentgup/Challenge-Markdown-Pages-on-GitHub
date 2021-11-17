@@ -1,4 +1,4 @@
-[Schedule](https://mutigers.com/sports/mens-basketball/schedule/2021-22)
+[Mizzou Basketball Schedule](https://mutigers.com/sports/mens-basketball/schedule/2021-22)
 
 | Opponent       | Date           | Home/Away  |
 | :------------- |:-------------:| :-----:|
