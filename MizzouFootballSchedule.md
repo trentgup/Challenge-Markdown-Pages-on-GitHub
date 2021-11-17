@@ -2,15 +2,15 @@
 
 | Opponent     | Date          | Home/Away  |
 | ------------- |:-------------:| -----:|
-|Central Michigan    | Sat, Sep 4 | $1600 |
-| Kentucky     | Sat, Sep 11      |   $12 |
-|SEMO | Sat, Sep 18     |    $1 |
-|Boston College|Sat, Sep 25||
-|Tennesee|Sat, Oct 2||
-|North Texas|Sat, Oct 9||
-|Texas A&M|Sat, Oct 16||
-|Vanderbilt|Sat, Oct 30||
-|Georgia|Sat, Nov 6||
-|South Carolina|Sat, Nov 13||
-|Florida|Sat, Nov 20||
-|Arkansas|Fri, Nov 26||
+|Central Michigan    | Sat, Sep 4 | Home |
+| Kentucky     | Sat, Sep 11      |   Away |
+|SEMO | Sat, Sep 18     |    Home |
+|Boston College|Sat, Sep 25|Away|
+|Tennesee|Sat, Oct 2|Home|
+|North Texas|Sat, Oct 9|Home|
+|Texas A&M|Sat, Oct 16|Home|
+|Vanderbilt|Sat, Oct 30|Away|
+|Georgia|Sat, Nov 6|Away|
+|South Carolina|Sat, Nov 13|Home|
+|Florida|Sat, Nov 20|Home|
+|Arkansas|Fri, Nov 26|Away|
